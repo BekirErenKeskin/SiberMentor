@@ -12,5 +12,5 @@ Bu projeyi çalıştırmak için bilgisayarınızda [Ollama](https://ollama.com/
 
 1. Repoyu bilgisayarınıza indirin:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/SiberMentor.git](https://github.com/KULLANICI_ADIN/SiberMentor.git)
+   git clone [https://github.com/BekirErenKeskin/SiberMentor.git](https://github.com/BekirErenKeskin/SiberMentor.git)
    cd SiberMentor
